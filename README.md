@@ -18,9 +18,8 @@ The user should clone the repository from GitHub. This application requires Expr
 ## Usage 
 This application demonstrates the database for a social networking application. API routes are tested through Insomnia Core.<br>
 Please view walk through videos to demonstrate the API routes.<br>
-[Screencastify - Routes/Server + User Routes Walk through](https://drive.google.com/file/d/1gFjYpKOG6H5tonqdwO-KIcfAP2I1Ri2v/view)<br>
-[Screencastify - Thought/Reaction Routes Walk through](https://drive.google.com/file/d/1MRAST_imrLisN-FUbTAK3TLFkq_DAHxJ/view)<br>
-[Screencastify - Friend's List Walk through](https://drive.google.com/file/d/1Dofz-Y3IR1KbNYQmxG1fLEF0aJxOfoPg/view)
+[Video - Routes/Server + User Routes Walk through](https://drive.google.com/file/d/1NsuWonSk_vtt70oLC0pwhmw-jz_hoyuK/view?usp=sharing)<br>
+[video - Thought/Reaction Routes Walk through](https://drive.google.com/file/d/1w6PNIaV8FexzeqhBBaDCJR4X_ubjw5eQ/view?usp=sharing)<br>
 
 ## License 
 This project is license under MIT
@@ -32,4 +31,4 @@ Contributors should read the installation section.
 There are no tests for this application. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.co
+If you have any questions about this projects, please contact me directly at drustipatel1234@gmail.com. You can view more of my projects at https://github.com/dpatel615
